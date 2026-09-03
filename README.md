@@ -6,7 +6,13 @@ I am a detail-oriented Data Entry Operator interested in Python, Git, GitHub, We
 
 Skills: VUE JS / REACT / Python, Git, GitHub, Data Entry, MS Excel, MS Word, HTML, CSSJS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.Improving my Data Entry skills and learning Python, Git and GitHub. 
+- 👯 I’m looking to collaborate on Beginner-friendly Python, automation and web development projects. 
+- 🤔 I’m looking for help with Python projects, GitHub and becoming a better developer. 
+- 💬 Ask me about Data Entry, MS Excel, MS Word, Python and GitHub. 
+- 📫 How to reach me: neetbeealpha0@gmail.com 
+- 😄 Pronouns: I enjoy learning new skills and turning ideas into useful projects. 
+- ⚡ Fun fact: I enjoy learning new skills and turning ideas into useful projects. 
 
 
 
