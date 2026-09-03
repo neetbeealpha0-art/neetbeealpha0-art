@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Hi, I'm Hosneara Khatun 👋
+#### Data Entry Operator | Python Learner | Git & GitHub Beginner
+![Data Entry Operator | Python Learner | Git & GitHub Beginner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**neetbeealpha0-art/neetbeealpha0-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a detail-oriented Data Entry Operator interested in Python, Git, GitHub, Web Development, Automation and AI. I enjoy learning new technologies and building useful projects.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / Python, Git, GitHub, Data Entry, MS Excel, MS Word, HTML, CSSJS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
