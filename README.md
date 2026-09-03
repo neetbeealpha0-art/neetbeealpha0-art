@@ -15,5 +15,5 @@ Skills: VUE JS / REACT / Python, Git, GitHub, Data Entry, MS Excel, MS Word, HTM
 - ⚡ Fun fact: I enjoy learning new skills and turning ideas into useful projects. 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/neetbeealpha0-art)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abdullah.munsi6601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Hosneara Khatun/)  
 
